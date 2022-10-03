@@ -1,0 +1,14 @@
+.countries-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+/* .h-tag {
+  display: flex;
+  text-align: center;
+  padding-left: 50px;
+  margin: 20px;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+} */
